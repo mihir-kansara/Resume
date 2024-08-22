@@ -157,7 +157,55 @@
             text-decoration: none;
             font-weight: bold;
         }
+    
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            header img {
+                width: 120px;
+                height: 120px;
+                top: 15px;
+                left: 15px;
+            }
+            header p {
+                font-size: 1em;
+            }
+            nav a {
+                padding: 10px 15px;
+                font-size: 1em;
+            }
+            .timeline {
+                margin-left: 10px;
+            }
+            .skills, .projects {
+                grid-template-columns: 1fr;
+            }
+        }
+    
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.5em;
+            }
+            header img {
+                width: 100px;
+                height: 100px;
+            }
+            header p {
+                font-size: 0.9em;
+            }
+            nav a {
+                padding: 8px 10px;
+                font-size: 0.9em;
+            }
+        }
+         /* Smooth Scrolling */
+    html {
+        scroll-behavior: smooth;
+    }
     </style>
+    
 </head>
 <body>
 
