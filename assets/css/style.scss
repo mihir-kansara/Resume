@@ -21,3 +21,8 @@ h1 {
 .download-btn:hover {
     background-color: #005f99;
 }
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
