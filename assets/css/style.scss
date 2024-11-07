@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}"; // Import the default theme styles
+
+/* Custom Styles */
+h1 {
+    font-size: 2.5em;
+    color: #333;
+}
+
+.download-btn {
+    background-color: #007acc;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.download-btn:hover {
+    background-color: #005f99;
+}
