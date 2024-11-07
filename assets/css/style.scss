@@ -1,28 +1,34 @@
 ---
 ---
 
-@import "{{ site.theme }}"; // Import the default theme styles
+@import "{{ site.theme }}";
 
-/* Custom Styles */
-h1 {
-    font-size: 2.5em;
-    color: #333;
+/* Smooth scrolling for better user experience */
+html {
+    scroll-behavior: smooth;
 }
 
-.download-btn {
-    background-color: #007acc;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
+/* Styling for experience items to fit roles, locations, and dates on one line */
+.experience-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
     font-weight: bold;
 }
 
-.download-btn:hover {
-    background-color: #005f99;
+.role {
+    flex: 1;
+    color: #333;
 }
 
-/* Smooth scrolling */
-html {
-    scroll-behavior: smooth;
+.location {
+    flex: 1;
+    text-align: center;
+    color: #666;
+}
+
+.date {
+    flex: 1;
+    text-align: right;
+    color: #888;
 }
