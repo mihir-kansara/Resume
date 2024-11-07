@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Mihir Kansara | Resume
+title: Mihir Kansara | Welcome
 ---
 
 <div class="profile">
   <img src="assets/images/Mihir_Photo.jpg" alt="Mihir Kansara" class="profile-photo">
   <div class="profile-info">
-    <h1>Mihir Kansara</h1>
-    <p>Business Manager | Fraud, CX & Product Strategy | Ex-JP Morgan Trading Analyst | MS, Columbia University</p>
-    <p><a href="Mihir_Kansara_Resume.pdf" download>Download Resume</a></p>
+    <h1>Welcome to My World and My Website</h1>
+    <p>Whether you’re here to explore, connect, or just curious about me, welcome aboard. Take a scroll, and let's uncover the stories behind the data-driven world I navigate every day.</p>
+    <p><a href="Mihir_Kansara_Resume.pdf" download>Download My Resume</a></p>
   </div>
 </div>
 
