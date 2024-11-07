@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+title: "Mihir Kansara"
+description: "Business Manager at Capital One - Fraud, CX & Product Strategy | Ex-JP Morgan Trading Analyst | Master's of Science, Columbia University"
