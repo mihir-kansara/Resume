@@ -16,6 +16,7 @@ Business Manager | Fraud, CX & Product Strategy | Ex-JP Morgan Trading Analyst |
 - [Skills](#skills)
 - [Education](#education)
 - [Projects](#projects)
+- [Blog & Hobbies](#blog)
 - [Contact](#contact)
 
 ---
@@ -86,7 +87,7 @@ I have a Master of Science degree in Industrial Engineering from Columbia Univer
 ## Projects <a name="projects"></a>
 
 ### Project 1: Twitter Sentiment Analysis for Morgan Stanley
-**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6713146839685824512/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6713146839685824512%29)**
+**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6713146839685824512/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6713146839685824512%29){:target="_blank"}**
 
 Goal: Provide business insights to Morgan Stanley about themes and sentiments in wealth management.
 
@@ -94,34 +95,34 @@ Goal: Provide business insights to Morgan Stanley about themes and sentiments in
 - Predicted themes and sentiments with 70% accuracy using deep learning and TensorFlow.
 - Developed a Tableau dashboard and a web app using Docker and Heroku to visualize KPIs.
 
-**Links**: [App](https://lnkd.in/gMM8g-g), [Dashboard](https://lnkd.in/gS-UkQ7), [GitHub](https://lnkd.in/gw4SD_a)
+**Links**: [App](https://lnkd.in/gMM8g-g){:target="_blank"}, [Dashboard](https://lnkd.in/gS-UkQ7){:target="_blank"}, [GitHub](https://lnkd.in/gw4SD_a){:target="_blank"}
 
 ---
 
 ### Project 2: SFO Airport Analysis Dashboard
-**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6651729430433583104/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6651729430433583104%29)**
+**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6651729430433583104/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6651729430433583104%29){:target="_blank"}**
 
 Analyzed flight schedules and punctuality at SFO Airport to assess terminal performance.
 
 - Built a dashboard for analyzing aviation data trends.
 
-**Link**: [Dashboard](https://lnkd.in/eKTiAjj)
+**Link**: [Dashboard](https://lnkd.in/eKTiAjj){:target="_blank"}
 
 ---
 
 ### Project 3: Stock Market Monthly Effect Analysis
-**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6691208855969505280/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6691208855969505280%29)**
+**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6691208855969505280/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6691208855969505280%29){:target="_blank"}**
 
 Explored the "monthly effect" in stock prices for 11 major stocks and indices.
 
 - Investigated monthly trends and built a Dash-Plotly web app for data visualization.
 
-**Link**: [Web App](https://lnkd.in/gQhfBxC)
+**Link**: [Web App](https://lnkd.in/gQhfBxC){:target="_blank"}
 
 ---
 
 ### Project 4: Predictive Modeling for Spotify
-**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6629855203480961024/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6629855203480961024%29)**
+**[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6629855203480961024/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6629855203480961024%29){:target="_blank"}**
 
 Analyzed user engagement with Spotify playlists to predict skips and suggest revenue opportunities.
 
@@ -129,6 +130,13 @@ Analyzed user engagement with Spotify playlists to predict skips and suggest rev
 
 ---
 
+## Blog & Hobbies <a name="blog"></a>
+In my spare time, I explore the fascinating world of theoretical physics, space, and time. I share my insights and ideas on my blog:
+
+**[Theory of Space Time Blog](https://theoryofspacetime.wordpress.com/){:target="_blank"}**
+
+---
+
 ## Contact <a name="contact"></a>
 - **Email**: [mk4296@columbia.edu](mailto:mk4296@columbia.edu)
-- **LinkedIn**: [linkedin.com/in/kansaramihir1234](https://www.linkedin.com/in/kansaramihir1234/)
+- **LinkedIn**: [linkedin.com/in/kansaramihir1234](https://www.linkedin.com/in/kansaramihir1234/){:target="_blank"}
