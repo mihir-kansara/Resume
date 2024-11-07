@@ -3,10 +3,14 @@ layout: default
 title: Mihir Kansara | Resume
 ---
 
-# Mihir Kansara
-Business Manager | Fraud, CX & Product Strategy | Ex-JP Morgan Trading Analyst | MS, Columbia University
-
-[Download Resume](Mihir_Kansara_Resume.pdf)
+<div class="profile">
+  <img src="assets/images/Mihir_Photo.jpg" alt="Mihir Kansara" class="profile-photo">
+  <div class="profile-info">
+    <h1>Mihir Kansara</h1>
+    <p>Business Manager | Fraud, CX & Product Strategy | Ex-JP Morgan Trading Analyst | MS, Columbia University</p>
+    <p><a href="Mihir_Kansara_Resume.pdf" download>Download Resume</a></p>
+  </div>
+</div>
 
 ---
 
@@ -31,57 +35,39 @@ I have a Master of Science degree in Industrial Engineering from Columbia Univer
 ## Professional Experience <a name="experience"></a>
 
 ### Capital One N.A
-<div class="experience-item">
-    <span class="role">Business Manager in Fraud Strategy</span>
-    <span class="location">New York</span>
-    <span class="date">Jul '24 - Present</span>
-</div>
+**Business Manager in Fraud Strategy**  
+*New York | Jul '24 - Present*
 - Developed and executed comprehensive fraud intent roadmaps as a strategic partner to Product, Operations, and Data Science. Enhanced fraud risk assessments and mitigation strategies, leading to a significant reduction in claims intake and OpEx.
 - Pioneered an innovative product providing real-time, accurate transaction and merchant information to customer service agents, streamlining CX and reducing unwarranted fraud by ~$43M.
 - Led a high-impact initiative to reinvent agent-customer interactions for fraud and dispute claims, integrating ML algorithms and complex logic to guide agent decision-making, serving ~11K agents, and contributing to annual savings of ~$10M.
 
-<div class="experience-item">
-    <span class="role">Senior Business Analyst in Fraud Strategy</span>
-    <span class="location">New York</span>
-    <span class="date">Aug '22 - Jul '24</span>
-</div>
+**Senior Business Analyst in Fraud Strategy**  
+*New York | Aug '22 - Jul '24*
 - Developed KPIs and launched various A/B tests in the market to iteratively enhance customer experience features such as Card Lock and Instant Purchase Notifications, reducing operational expenses and fraud intake by ~$20M annually.
 - Demonstrated strong communication and adept problem-solving by presenting complex data insights for strategic decisions and consistently delivering efficient solutions under tight deadlines to boost team performance and analytical capabilities.
 
 ### JP Morgan Chase & Co.
-<div class="experience-item">
-    <span class="role">Trading Services Analyst</span>
-    <span class="location">New York</span>
-    <span class="date">Jan '21 – Aug '22</span>
-</div>
+**Trading Services Analyst**  
+*New York | Jan '21 – Aug '22*
 - Led the development of 16 comprehensive automated processes for trade reconciliations and fraud compliance checks, reducing manual efforts and saving over 200 hours per month. Tech used - Alteryx, UiPath, SQL, VBA, APIs.
 - Played a key role in the development of robust controls for Credit Fixed Income trade positions, enhancing settlements accuracy through sophisticated SQL, Statistics, and Tableau analyses.
 - Contributed in conceptualizing and drafting a roadmap for an NLP-based algorithm, aligning with J.P. Morgan’s strategic initiative to invest $1 Trillion in Green Projects over the next decade.
 
 ### Internship Experiences
-<div class="experience-item">
-    <span class="role">Hexanika Inc. (FinTech)</span>
-    <span class="position">Financial Engineer, Product Consultant Intern</span>
-    <span class="location">New York</span>
-    <span class="date">Sep '20 - Nov '20</span>
-</div>
+**Hexanika Inc. (FinTech)**  
+*Financial Engineer, Product Consultant Intern*  
+*New York | Sep '20 - Nov '20*
 - Engineered a cutting-edge algorithm for big data fuzzy name matching using NLP techniques, increasing matching accuracy by 40%, and reducing data-processing times from 5 hours to about 2 minutes.
 - Built a deep learning-based system for Citi Bank to identify and structure texts from printed and hand-written documents and integrated it with AWS for large-scale data processing.
 
-<div class="experience-item">
-    <span class="role">Apple Inc</span>
-    <span class="position">Data Science Student Consultant</span>
-    <span class="location">New York</span>
-    <span class="date">Sep '20 - Nov '20</span>
-</div>
+**Apple Inc**  
+*Data Science Student Consultant*  
+*New York | Sep '20 - Nov '20*
 - Developed an NLP product that optimized Apple’s global supply chain logistics, integrating risk management strategies that facilitated rapid production shifts in response to global events, optimizing costs and ensuring supply chain resilience.
 
-<div class="experience-item">
-    <span class="role">Hapday Group (Consulting Start-up)</span>
-    <span class="position">Business Transformation Analyst Intern</span>
-    <span class="location">New York</span>
-    <span class="date">May '20 - Aug '20</span>
-</div>
+**Hapday Group (Consulting Start-up)**  
+*Business Transformation Analyst Intern*  
+*New York | May '20 - Aug '20*
 - Enhanced operational productivity by 300% by automating the data handling processes involved in ETL using Python, VBA, JavaScript.
 - Integrated software systems using APIs, developed time-triggered NLP algorithms for large datasets, and built client dashboards, saving 15 hours per week. This also democratized data analysis by providing user-friendly Python tools for non-technical users.
 
@@ -167,3 +153,4 @@ In my spare time, I explore the fascinating world of theoretical physics, space,
 ## Contact <a name="contact"></a>
 - **Email**: [mk4296@columbia.edu](mailto:mk4296@columbia.edu)
 - **LinkedIn**: [linkedin.com/in/kansaramihir1234](https://www.linkedin.com/in/kansaramihir1234/){:target="_blank"}
+ 
