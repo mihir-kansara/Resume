@@ -8,27 +8,34 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Styling for experience items to fit roles, locations, and dates on one line */
-.experience-item {
+/* Profile section styling */
+.profile {
     display: flex;
-    justify-content: space-between;
-    padding: 5px 0;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile-photo {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+.profile-info {
+    flex: 1;
+}
+
+/* Experience section styling */
+.experience-item {
+    margin-bottom: 15px;
+}
+
+.experience-item .role {
     font-weight: bold;
 }
 
-.role {
-    flex: 1;
-    color: #333;
-}
-
-.location {
-    flex: 1;
-    text-align: center;
-    color: #666;
-}
-
-.date {
-    flex: 1;
-    text-align: right;
-    color: #888;
+.experience-item .location-date {
+    font-style: italic;
+    color: #555;
 }
